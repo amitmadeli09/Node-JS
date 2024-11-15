@@ -1,0 +1,16 @@
+{
+  "name": "debuggingtechniques",
+  "version": "1.0.0",
+  "description": "All type of debugging techinques for every type of error",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
